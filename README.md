@@ -42,6 +42,8 @@ A Java-based ATM simulation system that provides basic banking operations throug
 ```
 
 Usage Example
+
+```
 =====================================
       Welcome to ABC Bank ATM
 =====================================
@@ -66,6 +68,7 @@ Deposit: Maximum $10,000 per transaction
 Withdrawal: Maximum $1,000 per transaction
 Minimum: All transactions must be greater than $0
 
+```
 ---
 
 Technologies Used
